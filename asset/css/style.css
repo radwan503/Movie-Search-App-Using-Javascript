@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+#movies img, #movie img{
+    width: 100%;
+}
+#movies .fixed-height {
+    height: 390px;
+
+}
+#movies .fixed-height img{
+    height: 240px;
+}
+.movie-title{
+    height: 104px;
+}
+.mt-5{
+margin-top: 5rem !important;
+}
+.details-wrapper {
+    padding: 30px;
+}

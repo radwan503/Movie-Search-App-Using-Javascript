@@ -1,6 +1,6 @@
 #MovieSearch
 
-##Introduction
+#Introduction
 
 <Learning Javascript by practing different type of project create. Movie search is one of them.<br>
           

@@ -1,9 +1,10 @@
-<h1>Details About Projet</h1>
-<hr>
-<a href=" https://radwan503.github.io/Movie-Search-App-Using-Javascript/">Demo Here</a>
-
-<img src="asset/image/AwesomeScreenshot-Day-08-09-2019-07-26-18-07-78.png">
-
+<Learning Javascript by practing different type of project create. Movie search is one of them.<br>
+          
+#Feature<br>
+          
+1.Search<br>
+2.Movie Information<br>
+3.Ranking in imdb<br>          
 
 
 
